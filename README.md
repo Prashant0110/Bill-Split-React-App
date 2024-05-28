@@ -34,7 +34,7 @@ Start the development server:
 npm start
 ```
 
-## TechStack
+## Tech Stack
 Frontend: React, JavaScript, CSS
 State Management: React hooks (useState)
 
