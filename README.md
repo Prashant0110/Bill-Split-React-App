@@ -44,7 +44,7 @@ List Friends: Display a list of friends with their balances.
 Select Friend: Select a friend to split a bill with.
 Split Bill: Split a bill amount with a selected friend, updating the balance accordingly.
 
-## ProjectStructure
+## Project Structure
 src/
 ├── components/
 │   ├── Button.js
