@@ -27,17 +27,17 @@ npm install
 Start the development server:
 npm start
 
-#TechStack
+## TechStack
 Frontend: React, JavaScript, CSS
 State Management: React hooks (useState)
 
-#Features
+## Features
 Add Friend: Add a new friend with a name and profile picture.
 List Friends: Display a list of friends with their balances.
 Select Friend: Select a friend to split a bill with.
 Split Bill: Split a bill amount with a selected friend, updating the balance accordingly.
 
-#ProjectStructure
+## ProjectStructure
 src/
 ├── components/
 │   ├── Button.js
