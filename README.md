@@ -9,8 +9,6 @@ This is a simple React application for managing friends and splitting bills with
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -25,20 +23,21 @@ cd Bill-Split-React-App
 Install the dependencies:
 npm install
 
+#Usage
 Start the development server:
 npm start
 
-Tech Stack
+#TechStack
 Frontend: React, JavaScript, CSS
 State Management: React hooks (useState)
 
-Features
+#Features
 Add Friend: Add a new friend with a name and profile picture.
 List Friends: Display a list of friends with their balances.
 Select Friend: Select a friend to split a bill with.
 Split Bill: Split a bill amount with a selected friend, updating the balance accordingly.
 
-Project Structure
+#ProjectStructure
 src/
 ├── components/
 │   ├── Button.js
@@ -58,5 +57,6 @@ FriendsList.js: Component to render the list of friends.
 Friend.js: Component to render a single friend with selection and balance information.
 FormAddFriend.js: Form component to add a new friend.
 FormSplitBill.js: Form component to split a bill with a selected friend.
+
 
 
