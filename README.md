@@ -16,16 +16,23 @@ This is a simple React application for managing friends and splitting bills with
 
 ```bash
 git clone https://github.com/Prashant0110/Bill-Split-React-App.git
+```
 
 Navigate to the project directory:
+```bash
 cd Bill-Split-React-App
+```
 
 Install the dependencies:
+```bash
 npm install
+```
 
-#Usage
+## Usage
 Start the development server:
+```bash
 npm start
+```
 
 ## TechStack
 Frontend: React, JavaScript, CSS
@@ -51,12 +58,7 @@ src/
 public/
 ├── index.html
 
-App.js: Main component managing the state and rendering child components.
-Button.js: Reusable button component.
-FriendsList.js: Component to render the list of friends.
-Friend.js: Component to render a single friend with selection and balance information.
-FormAddFriend.js: Form component to add a new friend.
-FormSplitBill.js: Form component to split a bill with a selected friend.
+
 
 
 
